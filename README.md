@@ -16,6 +16,7 @@ Student me = {
         "C", "C++", "Python", "Go", "Java"
     }
 };
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wwrrj/wwrrj/output/github-contribution-grid-snake-dark.svg">
